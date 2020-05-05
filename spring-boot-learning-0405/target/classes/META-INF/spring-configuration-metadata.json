@@ -1,0 +1,57 @@
+{
+  "groups": [
+    {
+      "name": "my",
+      "type": "com.zhuweiwei.springbootlearning0405.properties.MyProperties",
+      "sourceType": "com.zhuweiwei.springbootlearning0405.properties.MyProperties"
+    },
+    {
+      "name": "yaml-test",
+      "type": "com.zhuweiwei.springbootlearning0405.bean.YamlTest",
+      "sourceType": "com.zhuweiwei.springbootlearning0405.bean.YamlTest"
+    }
+  ],
+  "properties": [
+    {
+      "name": "my.emails",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.zhuweiwei.springbootlearning0405.properties.MyProperties"
+    },
+    {
+      "name": "my.project-name",
+      "type": "java.lang.String",
+      "sourceType": "com.zhuweiwei.springbootlearning0405.properties.MyProperties"
+    },
+    {
+      "name": "yaml-test.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.zhuweiwei.springbootlearning0405.bean.YamlTest"
+    },
+    {
+      "name": "yaml-test.date",
+      "type": "java.util.Date",
+      "sourceType": "com.zhuweiwei.springbootlearning0405.bean.YamlTest"
+    },
+    {
+      "name": "yaml-test.list",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.zhuweiwei.springbootlearning0405.bean.YamlTest"
+    },
+    {
+      "name": "yaml-test.map",
+      "type": "java.util.Map<java.lang.String,java.lang.Object>",
+      "sourceType": "com.zhuweiwei.springbootlearning0405.bean.YamlTest"
+    },
+    {
+      "name": "yaml-test.name",
+      "type": "java.lang.String",
+      "sourceType": "com.zhuweiwei.springbootlearning0405.bean.YamlTest"
+    },
+    {
+      "name": "yaml-test.yaml-inner-class",
+      "type": "com.zhuweiwei.springbootlearning0405.bean.YamlInnerClass",
+      "sourceType": "com.zhuweiwei.springbootlearning0405.bean.YamlTest"
+    }
+  ],
+  "hints": []
+}

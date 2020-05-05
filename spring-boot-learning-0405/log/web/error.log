@@ -1,0 +1,1 @@
+2020-04-25 17:31:34.776 ERROR 7688 --- [AMQP Connection 127.0.0.1:5672] o.s.a.r.c.CachingConnectionFactory       : Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=404, reply-text=NOT_FOUND - no exchange 'zhuwewei.news' in vhost '/', class-id=60, method-id=40)

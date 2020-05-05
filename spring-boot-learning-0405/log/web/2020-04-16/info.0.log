@@ -1,0 +1,19 @@
+2020-04-16 22:09:17.444  INFO 9852 --- [main] s.SpringBootLearning0405ApplicationTests : Starting SpringBootLearning0405ApplicationTests on 朱伟伟 with PID 9852 (started by DELL in E:\idea-project\springbootlearning\spring-boot-learning-0405)
+2020-04-16 22:09:17.536  INFO 9852 --- [main] s.SpringBootLearning0405ApplicationTests : The following profiles are active: myDev
+2020-04-16 22:09:19.258  INFO 9852 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2020-04-16 22:09:19.378  INFO 9852 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 103ms. Found 1 JPA repository interfaces.
+2020-04-16 22:09:20.194  INFO 9852 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2020-04-16 22:09:20.943  INFO 9852 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2020-04-16 22:09:21.201  INFO 9852 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-04-16 22:09:21.402  INFO 9852 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.12.Final
+2020-04-16 22:09:21.750  INFO 9852 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-04-16 22:09:22.287  INFO 9852 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2020-04-16 22:09:23.457  INFO 9852 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-04-16 22:09:23.464  INFO 9852 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-04-16 22:09:26.407  INFO 9852 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-16 22:09:26.630  INFO 9852 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-04-16 22:09:27.382  INFO 9852 --- [main] s.SpringBootLearning0405ApplicationTests : Started SpringBootLearning0405ApplicationTests in 11.178 seconds (JVM running for 14.556)
+2020-04-16 22:09:40.405  INFO 9852 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-16 22:09:40.405  INFO 9852 --- [SpringContextShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-04-16 22:09:40.405  INFO 9852 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2020-04-16 22:09:40.420  INFO 9852 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
