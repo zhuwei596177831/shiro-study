@@ -7,10 +7,12 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.web.client.RestTemplateBuilder;
 import org.springframework.cache.annotation.EnableCaching;
+import org.springframework.scheduling.annotation.EnableScheduling;
 
 @SpringBootApplication
 @MapperScan(basePackages = {"com.zhuweiwei.springbootlearning0405.mapper"})
 @EnableCaching
+@EnableScheduling
 @EnableRabbit
 //@EnableConfigurationProperties(value = {MyProperties.class})
 //@ConfigurationPropertiesScan(basePackages = {"com.zhuweiwei.springbootlearning0405.properties"})

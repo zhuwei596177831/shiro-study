@@ -1,9 +1,0 @@
-2020-04-06 23:39:31.280  INFO 9964 --- [main] s.SpringBootLearning0405ApplicationTests : Starting SpringBootLearning0405ApplicationTests on 朱伟伟 with PID 9964 (started by DELL in E:\idea-project\springbootlearning\spring-boot-learning-0405)
-2020-04-06 23:39:31.282  INFO 9964 --- [main] s.SpringBootLearning0405ApplicationTests : The following profiles are active: myDev
-2020-04-06 23:39:32.359  INFO 9964 --- [main] s.SpringBootLearning0405ApplicationTests : Started SpringBootLearning0405ApplicationTests in 1.764 seconds (JVM running for 3.141)
-2020-04-06 23:42:30.485  INFO 12012 --- [main] s.SpringBootLearning0405ApplicationTests : Starting SpringBootLearning0405ApplicationTests on 朱伟伟 with PID 12012 (started by DELL in E:\idea-project\springbootlearning\spring-boot-learning-0405)
-2020-04-06 23:42:30.490  INFO 12012 --- [main] s.SpringBootLearning0405ApplicationTests : The following profiles are active: myDev
-2020-04-06 23:42:31.666  INFO 12012 --- [main] s.SpringBootLearning0405ApplicationTests : Started SpringBootLearning0405ApplicationTests in 1.876 seconds (JVM running for 2.906)
-2020-04-06 23:46:44.387  INFO 1220 --- [main] s.SpringBootLearning0405ApplicationTests : Starting SpringBootLearning0405ApplicationTests on 朱伟伟 with PID 1220 (started by DELL in E:\idea-project\springbootlearning\spring-boot-learning-0405)
-2020-04-06 23:46:44.389  INFO 1220 --- [main] s.SpringBootLearning0405ApplicationTests : The following profiles are active: myDev
-2020-04-06 23:46:45.603  INFO 1220 --- [main] s.SpringBootLearning0405ApplicationTests : Started SpringBootLearning0405ApplicationTests in 1.836 seconds (JVM running for 2.924)

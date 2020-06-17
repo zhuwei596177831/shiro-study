@@ -13,6 +13,9 @@ import org.springframework.data.redis.core.StringRedisTemplate;
 
 import javax.sql.DataSource;
 import java.util.List;
+import java.util.concurrent.Executor;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 
 @SpringBootTest
 class SpringBootLearning0405ApplicationTests {
@@ -68,6 +71,5 @@ class SpringBootLearning0405ApplicationTests {
     void testRedis() {
         stringRedisTemplate.opsForValue().set("hello", "朱伟伟");
     }
-
 
 }
